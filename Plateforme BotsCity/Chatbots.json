@@ -1,0 +1,11 @@
+{
+    "chatbots": [
+        {
+            "intitule": "Covid",
+            "modelName": "COVID_Finale_24-06.h1",
+            "questionsPath": "COVID_MINI_Q.txt",
+            "responsesPath": "help.txt",
+            "type": "classification"
+        }
+    ]
+}
